@@ -1,0 +1,47 @@
+ATTENDANCE PHP-MYSQL 
+25-AUGUST-2026
+ASSN: PHP installation
+
+Series 250 — 25 students
+250401, installed
+250402, installed
+250404, installed
+250406, not installed
+250407, installed
+250408, installed
+250409, not installed
+250411, installed
+250414, installed
+250424, not installed
+250427, installed
+250430, not installed
+250433,installed
+250435, installed
+250439, installed
+250441, installed
+250445, installed
+250448, not installed
+250452, not installed
+250453, not installed
+250456, installed
+250460, installed
+250475, installed
+250481, not installed
+250489, installed
+
+Series 252 — 6 students
+252101, not installed
+252109, installed
+252318, not installed
+252610, not installed
+252618, installed
+252622, not installed
+
+Series 253 — 2 students
+253313, not installed
+253325, installed
+
+Series 450 — 1 student
+450460, installed
+
+Total roll numbers: 34
